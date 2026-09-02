@@ -13,21 +13,3 @@ GitHub repository:
 https://github.com/MikaDevelopNL/Portfolio-Website
 
 
-### Padel Website
-Mijn eerste webdevelopment project met meerdere pagina’s.
-
-Live website:
-https://mikadevelopnl.github.io/padel-website/
-
-GitHub repository:
-https://github.com/MikaDevelopNL/padel-website
-
-
-### Voorbeeld Portfolio Website
-Mijn Tweede project op basis van opdrachten gemaakt. 
-
-Live website:
-https://mikadevelopnl.github.io/Voorbeeld-Portfolio-Website/
-
-GitHub repository:
-https://github.com/MikaDevelopNL/Voorbeeld-Portfolio-Website
