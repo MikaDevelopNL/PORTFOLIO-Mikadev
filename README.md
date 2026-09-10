@@ -7,7 +7,7 @@ Webdevelopment portfolio met projecten gebouwd tijdens mijn leerproces als devel
 Mijn persoonlijke portfolio website waarin ik mijn ontwikkeling als beginnende software developer laat zien. Hier presenteer ik mijn projecten, vaardigheden en contactmogelijkheden.
 
 Live website:
-https://mikadevelopnl.github.io/Portfolio-Website/
+https://mikadevelopnl.github.io/PROJECT-Portfolio-Website/
 
 GitHub repository:
 https://github.com/MikaDevelopNL/Portfolio-Website
