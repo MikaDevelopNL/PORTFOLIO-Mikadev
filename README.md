@@ -8,13 +8,11 @@ technische vaardigheden laat zien.
 
 ## Projecten
 
-### Portfolio Website
+### Portfolio Website 1.0
 Mijn persoonlijke portfolio website waarin ik mijn ontwikkeling als beginnende software developer laat zien. Hier presenteer ik mijn projecten, vaardigheden en contactmogelijkheden.
 
 Live website:
 https://mikadevelopnl.github.io/PROJECTS-Portfolio-Website/
 
-GitHub repository:
-https://github.com/MikaDevelopNL/Portfolio-Website
 
 
